@@ -1,0 +1,2 @@
+rootProject.name='Runtime Permissions with Dexter'
+include ':app'
